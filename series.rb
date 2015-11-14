@@ -1,5 +1,4 @@
 class Series
-  attr_reader :raw
 
   def initialize(raw)
     @raw = raw
